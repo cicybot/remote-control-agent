@@ -1,0 +1,7 @@
+{
+  "name": "VNC Command Overlay",
+  "description": "A full-screen VNC viewer wrapper with a floating, resizable, and draggable command prompt interface for sending instructions to remote sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
